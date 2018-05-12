@@ -1,0 +1,35 @@
+_repo: The-Sea-Rovers_44413
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Fratz, May
+    gutenberg_agent_id: '42742'
+    url: http://www.gutenberg.org/2009/agents/42742
+covers:
+- cover_type: archival
+  image_path: 44413-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Wilson, Rufus Rockwell
+    birthdate: 1865
+    deathdate: 1949
+    gutenberg_agent_id: '42741'
+    url: http://www.gutenberg.org/2009/agents/42741
+description: ''
+gutenberg_issued: '2013-12-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '44413'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Seafaring life'
+- !lcc 'G'
+tableOfContents: Gloucester fisher folk -- An ocean flyer's crew -- The man-of-warsman
+  -- Soldiers who serve afloat -- The police of the coast -- The ocean pilot -- The
+  deep-sea diver -- The lighthouse keeper -- Life-saving along shore -- Whalers of
+  the Arctic Sea.
+title: The Sea Rovers
+url: http://www.gutenberg.org/ebooks/44413
